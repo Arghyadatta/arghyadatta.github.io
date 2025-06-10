@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Arghya Datta, PhD" # the title of your site, e.g. "Arghya Datta's Homepage"
+title                    : "Arghya Datta|Homepage" # the title of your site, e.g. "Arghya Datta's Homepage"
 title_separator          : "-"
 name                     : &name "Arghya Datta"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "arghyadatta/arghyadatta.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Arghya Datta"
+  name             : "Arghya Datta, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning | AI Researcher"
   location         : "U.S.A."
