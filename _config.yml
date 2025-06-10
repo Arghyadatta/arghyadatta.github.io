@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Arghya Datta"
+title                    : "Arghya Datta's Homepage" # the title of your site, e.g. "Arghya Datta's Homepage"
 title_separator          : "-"
 name                     : &name "Arghya Datta"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "arghyadatta/arghyadatta.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "Arghya Datta, PhD"
+  name             : "Arghya Datta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Machine Learning | AI Researcher"
   location         : "U.S.A."
   employer         : "Amazon.com Services LLC"
   position         : "Applied Scientist"
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3543-3829"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : 
   scopus           : # URL
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/arghya-datta-ph-d-763285101/"
+  linkedin         : "arghya-datta-ph-d-763285101/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
