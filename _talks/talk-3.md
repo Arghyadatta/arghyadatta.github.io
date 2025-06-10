@@ -1,7 +1,7 @@
 ---
 title: "Fairness and calibration in class imbalanced scenarios"
 collection: talks
-type: "Invited Talk"
+type: "Oral presentation"
 permalink: /talks/2022-02-17-fairness-calibration-icaart
 venue: "International Conference on Agents and Artificial Intelligence (ICAART)"
 date: 2022-02-17
