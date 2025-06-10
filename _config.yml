@@ -23,9 +23,9 @@ repository               : "arghyadatta/arghyadatta.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "Arghya Datta, PhD"
+  name             : "Arghya Datta"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning • AI Researcher"
+  bio              : ""
   location         : "U.S.A."
   employer         : "Amazon.com Services LLC"
   position         : "Applied Scientist"
