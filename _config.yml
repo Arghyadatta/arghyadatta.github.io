@@ -25,8 +25,8 @@ author:
   avatar           : "images/profile.png"
   name             : "Arghya Datta, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "U.S.A."
+  bio              : "Machine Learning • AI Researcher"
+  location         : "United States of America"
   employer         : "Amazon.com Services LLC"
   position         : "Applied Scientist"
   uri              : # URL
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3543-3829"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : 
   scopus           : # URL
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/arghya-datta-ph-d-763285101/"
+  linkedin         : "arghya-datta-ph-d-763285101/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
