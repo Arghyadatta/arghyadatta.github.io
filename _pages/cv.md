@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV (PDF)](https://arghyadatta.github.io/files/arghyadatta_CV.pdf)
+
 # Education
 
 - **Ph.D. in Computer Science**, [Washington University in St. Louis](https://cse.wustl.edu/Pages/default.aspx), Department of Computer Science & Engineering, St. Louis, USA  
