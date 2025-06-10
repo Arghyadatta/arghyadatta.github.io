@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
+# This config file is meant for settings that affect your entire site, valuesMore actions
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
@@ -22,10 +22,11 @@ repository               : "arghyadatta/arghyadatta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  avatar           : "profile.png"
   avatar           : "images/profile.png"
-  name             : "Arghya Datta"
+  name             : "Arghya Datta, PhD"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Short biography for the left-hand sidebar"
   location         : "U.S.A."
   employer         : "Amazon.com Services LLC"
   position         : "Applied Scientist"
@@ -39,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3543-3829"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : ""
   researchgate     : 
   scopus           : # URL
 
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "arghya-datta-ph-d-763285101/"
+  linkedin         : "https://www.linkedin.com/in/arghya-datta-ph-d-763285101/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
