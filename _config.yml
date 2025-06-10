@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Arghya Datta|Homepage" # the title of your site, e.g. "Arghya Datta's Homepage"
+title                    : "Homepage" # the title of your site, e.g. "Arghya Datta's Homepage"
 title_separator          : "-"
 name                     : &name "Arghya Datta"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning | AI Researcher"
   location         : "U.S.A."
-  employer         : "Amazon.com Services LLC"
+  employer         : "Amazon.com, Inc."
   position         : "Applied Scientist"
   uri              : # URL
   email            : "arghya.dat@gmail.com" 
