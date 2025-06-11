@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "📝 CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 [Download my CV (PDF)](https://arghyadatta.github.io/files/arghyadatta_CV.pdf)
 
-# Education
+# 🎓 Education
 
 - **Ph.D. in Computer Science**, [Washington University in St. Louis](https://cse.wustl.edu/Pages/default.aspx), Department of Computer Science & Engineering, St. Louis, USA  
 
@@ -19,14 +19,14 @@ redirect_from:
 
 - **Bachelor of Technology**, [West Bengal University of Technology](https://makautwb.ac.in/), Department of Electronics & Communication Engineering, Kolkata, India  
 
-# Work Experience
+# 💼 Work Experience
 
-## Amazon.com Inc.
-
-### Applied Scientist, Applied AI (eCF), WorldWide Retail Stores  
+## Amazon.com 
 _Sept 2021 – Present_
 
-- Scientist for **Applied AI** org at Amazon Worldwide Stores working on knowlege operations using **Generative AI**.
+### Applied Scientist, Applied AI (eCF), WorldWide Retail Stores  
+
+- Scientist in **Applied AI** org at Amazon Worldwide Stores working on knowlege operations using **Generative AI**.
 - Built an LLM-based **text-to-SQL engine** using RAGs, CoT, self-correction, and self-consistency. 
 - Built an **LLM-powered agentic annotation framework** enabling 80% cost reduction in training data generation.
 
@@ -37,8 +37,9 @@ _Sept 2021 – Present_
 
 ### Applied Scientist, Artificial General Intelligence Org.  
 - Designed **self-learning systems** to identify model gaps and generate fine-tuning data.
-- Invented and deployed neural stability model for Alexa LLMs, reducing instability by **35%**.  
+- Invented methodologies to **detect, quantify and mitigate model instability** in LLMs
   _Published at ACL 2023._
+- Led multiple workstreams for streamlining Amazon Alexa's AI model evaluation pipelines to significantly reduce computation costs by **$5 mm**
 - Built Amazon’s **data quality framework** for LLMs (e.g., Amazon Nova models).
 
 ### Applied Scientist, Customer Targeting, WW Retail Stores  
@@ -52,3 +53,4 @@ _Sept 2021 – Present_
 - **Data Scientist Intern**, Amazon WW Stores Org., Seattle, USA — _Jun 2019 – Sep 2019_
 - **Doctoral Researcher**, Washington University in St. Louis — _Aug 2016 – Aug 2021_
 - **Software Engineer**, Infosys Limited, Pune, India — _Aug 2015 – May 2016_
+
