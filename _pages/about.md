@@ -1,21 +1,19 @@
 ---
 permalink: /
-title: "About me"
+title: "Bio"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Dr. **Arghya Datta** is a seasoned researcher and applied scientist in the fields of **machine learning**, **artificial intelligence**, and their applications in complex domains. Over the past decade, he has passionately pursued innovative solutions using cutting-edge techniques in deep learning, probabilistic modeling, data representation, and analytics. His work bridges technical rigor with real-world impact.
+**Dr. Arghya Datta** is an AI researcher focused on the foundational aspects of **generative AI**, **deep learning**, and **neural networks**, as well as their applications in complex, high-impact domains such as **healthcare**, **e-commerce** and industry leading products such as **Alexa** and **Amazon Q developer**. For over a decade, he has pursued innovative, data-driven solutions by combining deep learning, probabilistic modeling, representation learning, and analytics.
 
-Arghya’s research has resulted in numerous publications in leading journals and conferences—spanning core machine learning, healthcare informatics, and toxicology. His work includes development of predictive models combining classical and deep learning approaches, implementation of robust NLP pipelines, graph convolutional network designs, large-scale recommender systems, and causal inference frameworks. He also has contributed to generating insights from healthcare data and optimizing A/B testing pipelines.
+His research has been published in top-tier journals and conferences spanning **large language models**, **deep learning**, **healthcare informatics**, and **computational toxicology**. Arghya’s work covers a diverse set of systems, including predictive models that integrate classical and deep learning methods, robust NLP pipelines, graph neural network architectures, large-scale recommender systems, and causal inference frameworks. 
 
-Arghya has worked closely with clinicians and epidemiologists at **Washington University in St. Louis School of Medicine** and the **BJC Healthcare** network, leading interdisciplinary collaborations that translate complex AI methods into actionable outcomes in clinical settings. These experiences have sharpened both his ability to communicate technical ideas effectively and his talent for building research relationships across domains.
+Previously, Arghya collaborated with clinicians and epidemiologists at **Washington University School of Medicine** and the **BJC Healthcare** network, leading interdisciplinary efforts to translate advanced AI methods into actionable tools for clinical decision-making. These collaborations deepened his ability to communicate technical ideas across domains and foster high-impact, research-driven partnerships.
 
-Today, Arghya leads Generative AI platform R&D within Amazon’s **Applied AI** organization, part of **Worldwide Amazon Stores (WWAS)**. This cross-functional team is on a mission to automate knowledge operations at scale, enhancing decision-making efficiency and quality across the organization 
-
-An adaptive and driven problem solver, Arghya thrives in fast-paced environments and is continually exploring new frontiers in foundation models, representation learning, and production-scale AI systems. When not immersed in research, he enjoys giving back through mentorship, sharing insights with the AI community via talks and peer review, and keeping up with the latest trends in generative models.
+Arghya holds a **Ph.D.** in Computer Science from *Department of Computer Science & Engineering*, [Washington University in St. Louis](https://cse.wustl.edu).
 
 🛠️ **Get in touch**  
 Please reach out via **[arghya.dat@gmail.com](mailto:arghya.dat@gmail.com)**.
