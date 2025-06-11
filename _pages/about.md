@@ -19,8 +19,9 @@ Arghya holds **Ph.D.** and **Master’s** degrees in *Computer Science* from *De
 
 ## 🧪 Research Interests
 
-- Deep Learning and Neural Networks  
 - Generative AI and Foundation Models  
+- Multimodal large Language Models
+- Deep Learning and Neural Networks   
 - Graph Neural Networks (GNNs)  
 - Representation Learning  
 - Causal Modeling and Inference  
@@ -39,3 +40,5 @@ Arghya holds **Ph.D.** and **Master’s** degrees in *Computer Science* from *De
 - [December 2021] Our paper on *Fair-Net: A Network Architecture For Reducing Performance Disparity Between Identifiable Sub-Populations* was accepted at ICAART 2022.
 
 - [Septempber, 2021] I joined **Amazon** as an Applied Scientist.
+
+- [May, 2021] I successfully defended my PhD thesis at WashU.
