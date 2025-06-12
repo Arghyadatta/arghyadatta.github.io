@@ -1,7 +1,7 @@
 ---
 title: "SOP‑Bench: Complex Industrial SOPs for Evaluating LLM Agents"
 collection: publications
-category: benchmarks
+category: conferences
 permalink: /publication/2025-06-09-sop-bench-industrial-sops-llm-agents
 excerpt: 'SOP‑Bench provides a large‑scale benchmark of realistic industrial SOP tasks to assess LLM‑based agent performance on structured, long‑horizon workflows.'
 date: 2025-06-09
