@@ -105,6 +105,52 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  .work-image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.9rem;
+    margin: 0.9rem auto 1.3rem;
+    max-width: 760px;
+  }
+
+  @media (max-width: 700px) {
+    .work-image-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .work-image-card {
+    display: block;
+    width: 100%;
+    flex: none;
+    margin: 0;
+    padding: 0.35rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 12px;
+    background: var(--global-bg-color);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
+    overflow: hidden;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 190px;
+      object-fit: contain;
+      border-radius: 9px;
+      margin-bottom: 0;
+    }
+  }
+
+  .work-image-single {
+    max-width: 620px;
+    margin: 0.9rem auto 1.3rem;
+  }
+
+  .work-image-single img {
+    max-height: 240px;
+  }
 }
 
 .page__hero {
