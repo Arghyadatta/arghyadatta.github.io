@@ -51,6 +51,30 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+
+    {% if post.collection == 'publications' %}
+      {% if post.images %}
+        <div class="publication__images">
+          {% for publication_image in post.images %}
+            <div class="publication__image{% if post.image_fit == 'contain' %} publication__image--contain{% endif %}{% if post.image_size == 'small' %} publication__image--small{% endif %}">
+              <img
+                src="{% if publication_image contains '://' %}{{ publication_image }}{% else %}{{ publication_image | relative_url }}{% endif %}"
+                alt="Preview image for {{ title | strip_html }}"
+                loading="lazy"
+                decoding="async">
+            </div>
+          {% endfor %}
+        </div>
+      {% elsif post.image %}
+        <div class="publication__image{% if post.image_fit == 'contain' %} publication__image--contain{% endif %}{% if post.image_size == 'small' %} publication__image--small{% endif %}">
+          <img
+            src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ post.image | relative_url }}{% endif %}"
+            alt="Preview image for {{ title | strip_html }}"
+            loading="lazy"
+            decoding="async">
+        </div>
+      {% endif %}
+    {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
