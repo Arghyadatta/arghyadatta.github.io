@@ -40,6 +40,12 @@ _Sept 2021 – Dec 2025_
     <img src="/images/work/agentz_impact.png" alt="AgentZ $2B ARR impact" loading="lazy" decoding="async" style="display:block;width:100%;height:210px;object-fit:contain;border-radius:8px;">
   </figure>
   <figure style="margin:0;padding:6px;border:1px solid #2a2a2a;border-radius:12px;background:rgba(0,0,0,0.02);box-shadow:0 8px 18px rgba(0,0,0,0.12);overflow:hidden;">
+    <img src="/images/work/agentz_impact_1.png" alt="AgentZ impact details" loading="lazy" decoding="async" style="display:block;width:100%;height:210px;object-fit:contain;border-radius:8px;">
+  </figure>
+  <figure style="margin:0;padding:6px;border:1px solid #2a2a2a;border-radius:12px;background:rgba(0,0,0,0.02);box-shadow:0 8px 18px rgba(0,0,0,0.12);overflow:hidden;">
+    <img src="/images/work/agentz_arch.png" alt="AgentZ architecture" loading="lazy" decoding="async" style="display:block;width:100%;height:210px;object-fit:contain;border-radius:8px;">
+  </figure>
+  <figure style="margin:0;padding:6px;border:1px solid #2a2a2a;border-radius:12px;background:rgba(0,0,0,0.02);box-shadow:0 8px 18px rgba(0,0,0,0.12);overflow:hidden;">
     <img src="/images/work/sopbench_github.png" alt="SOP-Bench GitHub screenshot" loading="lazy" decoding="async" style="display:block;width:100%;height:210px;object-fit:contain;border-radius:8px;">
   </figure>
 </div>
