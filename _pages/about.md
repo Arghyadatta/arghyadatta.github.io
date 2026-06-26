@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher working on the foundations of **generative AI**, **deep learning**, and **neural networks**, as well as their applications in complex, high-impact domains such as **healthcare**, **e-commerce** and industry leading products such as **Alexa** and **Amazon Q developer**. For over a decade, I have pursued innovative, data-driven solutions by combining deep learning, probabilistic modeling, representation learning, and analytics.
+I am an AI researcher working on the foundations of **generative AI**, **deep learning**, and **neural networks**, as well as their applications in complex, high-impact domains such as **healthcare**, **e-commerce** and industry leading products such as **OCI generative AI**, **Amazon AgentZ**, **Amazon Nova**, **Alexa** and **Amazon Kiro**. For over a decade, I have pursued innovative, data-driven solutions by combining deep learning, probabilistic modeling, representation learning, and analytics.
 
-Currently, I work as an Applied Scientist in the **Applied AI** organization at **Amazon**, where I lead both foundational and applied research initiatives in Generative AI to accelerate and enhance knowledge operations automation and developer productivity. Over the past few years at Amazon, I have consistently led high-impact science efforts across multiple divisions including **Amazon AGI**, **Alexa**, **Amazon Q Developer**, and **GenAI for Worldwide Amazon Stores**, delivering production-ready solutions that integrate cutting-edge AI capabilities with robust engineering at scale that have contributed to multi-million-dollar impact at Amazon.
+Currently, I work as a Principal Applied Scientist/Tech Lead (GenAI and Agents) at **Oracle Cloud Infrastructure (OCI)**. Previously, I worked as the technical lead in the **Applied AI** organization at **Amazon**, where I led both foundational and applied research initiatives in Generative AI to accelerate and enhance knowledge operations automation and developer productivity. Over the past few years at Amazon, I consistently led high-impact science efforts across multiple divisions including **Amazon AGI**, **Alexa**, **Amazon Q Developer**, and **GenAI for Worldwide Amazon Stores**, delivering production-ready solutions that integrate cutting-edge AI capabilities with robust engineering at scale that have contributed to multi-million-dollar impact at Amazon.
 
 My research has been published in top-tier journals and conferences spanning **large language models**, **deep learning**, **healthcare informatics**, and **computational toxicology**. My research covers a diverse set of systems, including predictive models that integrate classical and deep learning methods, robust NLP pipelines, graph neural network architectures, large-scale recommender systems and causal inference frameworks. 
 
@@ -18,6 +18,12 @@ Previously, I collaborated with clinicians and epidemiologists at **Washington U
 I hold **Ph.D.** and **Master’s** degrees in *Computer Science* from *Department of Computer Science & Engineering* at [Washington University in St. Louis, USA](https://cse.wustl.edu). My PhD dissertation is available at [WUSTL University Libraries](https://openscholarship.wustl.edu/eng_etds/649/)
 
 ## 📢 Updates
+
+- [May, 2026] *SOP-Bench* accepted at KDD 2026 (Datasets and Benchmark Track)
+
+- [March, 2026] Our [NL2SQL product](https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/sqltool-add.htm) is launched GA at OCI Generative AI.
+
+- [December, 2025] I joined **Oracle Cloud Infrastructure** as a Principal Applied Scientist.
 
 - [June, 2025]Our paper *SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents* is available on [Arxiv preprint](https://www.arxiv.org/pdf/2506.08119). This is a first of its kind LLM benchmark generation framework to generate domain specific standard operating procedures (SOPs) to test LLM's planning, reasoning and tool calling abilities.
 

@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](https://arghyadatta.github.io/files/arghyadatta_CV.pdf)
-
 # 🎓 Education
 
 - **Ph.D. in Computer Science**, [Washington University in St. Louis](https://cse.wustl.edu/Pages/default.aspx), Department of Computer Science & Engineering, St. Louis, USA  
@@ -21,10 +19,16 @@ redirect_from:
 
 # 💼 Work Experience
 
-## Amazon.com 
+## Oracle Cloud Infrastructure
+_Dec 2025 – Present_
+### Principal Applied Scientist (Gen AI and Agents)
+- Technical leader architecting and delivering enterprise-scale **Agentic AI systems** for data analytics on **Oracle Cloud Infrastructure (OCI)**, building production-grade LLM-powered data and automation platforms that enable natural language interfaces, autonomous workflows, and secure enterprise adoption of Generative AI.
+- Leading agentic AI capabilities and building enterprise-scale knowledge-centric AI platforms, including a shared knowledge store that integrates knowledge graphs and vector search to power LLM retrieval, domain-specific query interfaces, autonomous workflows, and production data-analytics agents for OCI and Oracle 26AI Database customers.
+
+## Amazon Inc. 
 _Sept 2021 – Dec 2025_
 
-### Applied Scientist, Applied AI (eCF), WorldWide Retail Stores  
+### Tech Lead, AgentCore, AWS Agentic AI
 - Built and scaled **AgentZ**, an agentic AI platform for Amazon Worldwide Retail knowledge operations, supporting a business stream with **$2B ARR** ([AWS re:Invent 2025 announcement](https://www.youtube.com/watch?v=zj44evAY_AA&t=718s)).
 - Co-led **AgentZ Studio** (Chat Builder + Visual Builder): designed the NL-to-DAG semantic planning layer, clarification engine, and testing framework.
 - Drove step-change adoption by reducing agent creation time from **hours to minutes**; enabled **21K enterprise-grade production agents in one month**.
@@ -50,10 +54,11 @@ _Sept 2021 – Dec 2025_
   </figure>
 </div>
 
-### Applied Scientist, Amazon Q Developer (NGDE), AWS  
+### Applied Scientist, Amazon Kiro (Previously Q Developer), AWS  
 - Led science for **Amazon Q Code Developer Agent**, Amazon’s flagship GenAI developer product ([company announcement](https://aws.amazon.com/blogs/devops/amazon-q-developer-just-reached-a-260-million-dollar-milestone/)).
 - Built a large-scale code transformation platform for JDK migrations, saving **4,500 developer years** and **$260MM**.
 - Led AWS SDK v1 → v2 transformation science for AWS’s most-used Java SDK, with program-level reporting to **Amazon S-team**.
+- Conceptualized and productized Code Review and Build Fixer Agents for code.amazon (used across the company for code development)
 
 <figure style="margin:12px auto 20px;padding:6px;max-width:620px;border:1px solid #2a2a2a;border-radius:12px;background:rgba(0,0,0,0.02);box-shadow:0 8px 18px rgba(0,0,0,0.12);overflow:hidden;">
   <img src="/images/work/AWS-Q-code-dev.png" alt="Amazon Q Code Developer screenshot" loading="lazy" decoding="async" style="display:block;width:100%;height:230px;object-fit:contain;border-radius:8px;">
